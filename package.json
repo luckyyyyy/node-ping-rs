@@ -1,6 +1,6 @@
 {
   "name": "node-ping-rs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A high-performance ping utility for Node.js built with Rust and napi-rs",
   "main": "index.js",
   "repository": "git@github.com:luckyyyyy/node-ping-rs.git",
